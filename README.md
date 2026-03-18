@@ -12,7 +12,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Learning**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
